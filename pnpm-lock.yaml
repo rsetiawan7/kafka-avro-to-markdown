@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  json2md: ^1.12.0
+
+dependencies:
+  json2md: 1.12.0
+
+packages:
+
+  /indento/1.1.13:
+    resolution: {integrity: sha512-YZWk3mreBEM7sBPddsiQnW9Z8SGg/gNpFfscJq00HCDS7pxcQWWWMSVKJU7YkTRyDu1Zv2s8zaK8gQWKmCXHlg==}
+    dev: false
+
+  /json2md/1.12.0:
+    resolution: {integrity: sha512-bpJpuqECzkndCa10aGPxeJNikmkDN7PAGXHvrBGTI4uey6QbTL5p0rkhk9lB3lKU4J7yGvkSmVBt8VhzUGu/fA==}
+    dependencies:
+      indento: 1.1.13
+    dev: false

@@ -1,0 +1,7 @@
+node_modules/
+
+!outputs/.gitkeep
+outputs/
+
+!schemas/.gitkeep
+schemas/
